@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 788b2cae41098dd84be644bbf662b6d3b944262e
 # KERAS
 ## FONKSİYONEL API
 Keras Functional api sequential apiye göre daha flexible olmamıza olanak sağlar. Functional api non-linear topolojide modeller oluşturmamıza, aynı layerin paylaşılmasına ve çoklu input ve outputlar oluşturmamıza olanak sağlar.  
@@ -707,6 +710,10 @@ _ = rnn_model(tf.zeros((1, timesteps, input_dim)))
 ```python
 
 ```
+<<<<<<< HEAD
 =======
 # tfkeras_tutorial
 >>>>>>> 9ce9d4895f1b65ecd4df8e9dd3fed2d981c79ce8
+=======
+
+>>>>>>> 788b2cae41098dd84be644bbf662b6d3b944262e
